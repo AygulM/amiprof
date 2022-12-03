@@ -535,7 +535,7 @@ a{
     padding: 0;
     border: none;
 }
-/**/
+
 .all{
     font-size: 18px;
     line-height: 120%;
@@ -747,9 +747,6 @@ a{
         font-size: 14px;
     }
 }
-
-/*600 kara !!!!!!!*/
-
 /*-----------------news-*/
 .news{
     position: relative;
@@ -1179,9 +1176,6 @@ a{
         padding-top: 10px;
     }
 }
-/*600/700 kara*/
-
-
 /*            certificates        */
 
 .certificates{
@@ -1231,7 +1225,6 @@ a{
 }
 /*  adaptive certificates !  */
 
-/* adaptive reviews !*/
 @media(max-width:900px) {
     .certificates__fon{
         display: none;
@@ -1372,8 +1365,6 @@ a{
         padding: 35px 20px; 
     }
 }
-
-/*650   kara*/
 
 /* footer    */
 .footer{
